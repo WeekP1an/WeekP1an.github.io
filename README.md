@@ -2,7 +2,7 @@
 
 <center>本页正在建设中，小姐姐耐心等待...
 
-![](Construction.gif)
+![image](https://github.com/WeekP1an/WeekP1an.github.io/blob/main/Construction.gif)
 
 
 <!--
