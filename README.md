@@ -6,5 +6,6 @@ Week P1an Pages是一个关于记录向垚和李锦瑞的计划与进度的Pages
 
 - [2020.10.12-2020.10.18](https://weekp1an.github.io/20201012/20201012-1018.html)
 - [2020.10.19-2020.10.25](https://weekp1an.github.io/20201019/20201019-1025.html)
+- [2020.10.26-2020.11.01](https://weekp1an.github.io/20201026/20201026-1101.html)
 
 
